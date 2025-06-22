@@ -191,9 +191,12 @@ const Expense = () => {
                     <button
                       type="button"
                       key={icon}
-                      onClick={() => setForm({ ...form, icon })}
+                      onClick={() => {
+                        setSelectedIcon(icon);
+                        setForm({ ...form, icon });
+                      }}
                       className={`text-2xl p-2 rounded-full border-2 transition min-w-[44px] min-h-[44px] flex items-center justify-center ${
-                        form.icon === icon
+                        selectedIcon === icon
                           ? "border-purple-500 bg-purple-100"
                           : "border-transparent hover:bg-gray-100"
                       }`}
