@@ -1,0 +1,63 @@
+# Node modules
+node_modules/
+
+# Build output
+dist/
+build/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# dotenv environment variables
+.env
+.env.*
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# VSCode settings
+.vscode/
+
+# Coverage reports
+coverage/
+
+# IDE files
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Misc
+*.log
+
+# React/Vite/Next.js
+.next/
+.out/
+.cache/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Optional: ignore uploads or static files if any
+uploads/
+static/
+public/uploads/
+
+# Prisma
+prisma/dev.db
+prisma/dev.db-journal
+
+# Windows
+*.bat
+*.cmd
+
+# Mac
+.AppleDouble
+.LSOverride
+
+# Linux
+*~
