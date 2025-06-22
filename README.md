@@ -190,10 +190,13 @@ node Seeders/expenseSeeder.js
 
 ## 📸 Screenshots
 
-> _Add screenshots here for a more visual README!_
+![image](https://github.com/user-attachments/assets/dad110d0-5d20-4411-9e7b-f0b5939ab0ff)
+![image](https://github.com/user-attachments/assets/3466ecdd-5ba1-4c43-8817-9aaa8d2e5555)
+![image](https://github.com/user-attachments/assets/115c4de1-68b9-4490-a9d5-80b9fc5c018f)
+![image](https://github.com/user-attachments/assets/39f00f5a-5689-4e5e-8efe-4349f5ec8b2b)
+![image](https://github.com/user-attachments/assets/f374908f-2e90-43c8-a23b-3856303163a4)
+![image](https://github.com/user-attachments/assets/751a3b31-f855-45d4-b00a-510bdb8e7f8b)
+![image](https://github.com/user-attachments/assets/7a612146-35c8-4e26-a9a3-430f12cacd66)
+![image](https://github.com/user-attachments/assets/82ca604e-2911-4ee1-8a37-bcdcff71b674)
+![image](https://github.com/user-attachments/assets/1a5f48dd-757e-4ad1-a7a1-f0c04c641e17)
 
----
-
-## 📝 License
-
-MIT
