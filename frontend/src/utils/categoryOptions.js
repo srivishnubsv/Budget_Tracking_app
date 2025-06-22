@@ -15,5 +15,7 @@ export const EXPENSE_CATEGORIES = [
   "Health",
   "Entertainment",
   "Education",
+  "Savings",
+  "Investments",
   "Other",
 ];
