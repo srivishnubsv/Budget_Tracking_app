@@ -4,6 +4,10 @@ A modern, full-stack budget tracking application for managing your finances. Bui
 
 ---
 
+# Explanation Video Link
+https://youtu.be/jdwINdLWuhI
+
+
 ##  Features
 
 - 🔒 User authentication (JWT)
