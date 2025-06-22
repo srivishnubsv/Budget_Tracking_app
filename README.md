@@ -22,7 +22,7 @@ https://youtu.be/jdwINdLWuhI
 ---
 
 ## 🧑‍💻Live Link &  Sample Credentials
-- **Live Link:** https://fintracker25.vercel.app/login/
+- **Live Link:** https://fintracker25.vercel.app/
 - **Email:** `admin@gmail.com`
 - **Password:** `12345678`
 
