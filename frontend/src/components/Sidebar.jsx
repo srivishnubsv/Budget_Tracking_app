@@ -80,9 +80,7 @@ const Sidebar = () => {
             >
               <UserCircle size={open ? 32 : 28} className="text-blue-500" />
               {open && (
-                <span className="font-semibold text-lg">
-                  {username || "Profile"}
-                </span>
+                <span className="font-semibold text-lg">{"Profile"}</span>
               )}
             </button>
             {/* Shrink/Expand Button */}
