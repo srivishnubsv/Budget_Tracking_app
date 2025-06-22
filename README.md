@@ -18,7 +18,7 @@ A modern, full-stack budget tracking application for managing your finances. Bui
 ---
 
 ## 🧑‍💻 Sample Credentials
-
+- **Live Link:** `https://fintracker25.vercel.app/`
 - **Email:** `admin@gmail.com`
 - **Password:** `12345678`
 
