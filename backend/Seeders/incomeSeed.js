@@ -3,7 +3,7 @@ import fetch from "node-fetch";
 
 const API_URL = "http://localhost:5000/api/v1/income/add";
 const TOKEN =
-  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2ODU3ODVmYTlmYzU2YzcxYTBiNmZhODgiLCJpYXQiOjE3NTA1NjY1ODIsImV4cCI6MTc1MTE3MTM4Mn0.cu1JQOc5jBldmAJul4VVyCMZVtYxrK34rD0-G0wlPg4";
+  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2ODU3OTM1ZWZlYTFiN2IyYTIxMGUzMDIiLCJpYXQiOjE3NTA1Nzk3NzMsImV4cCI6MTc1MTE4NDU3M30.v3r74BwwEcdM22trXXPNF33HH3BZV-2ECVZGh5PC8FQ";
 const dummyIncome = [
   {
     icon: "💼",
