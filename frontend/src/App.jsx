@@ -11,7 +11,7 @@ import Dashboard from "./pages/Dashboard";
 import Income from "./pages/Income";
 import Expense from "./pages/Expense";
 import Login from "./pages/Auth/Login";
-import Signup from "./pages/Auth/SignUp";
+import Signup from "./pages/Auth/Signup";
 import Logout from "./pages/Logout";
 import NotFound from "./pages/NotFound";
 import { ToastProvider } from "./components/ToastProvider";
